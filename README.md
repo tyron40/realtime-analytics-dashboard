@@ -2,7 +2,10 @@
 
 A modern, interactive dashboard for visualizing real-time analytics data with customizable widgets and live updates.
 
-![Dashboard Preview](https://placehold.co/600x400?text=Analytics+Dashboard)
+![screencapture-lucent-cobbler-fea903-netlify-app-2025-03-27-17_23_10](https://github.com/user-attachments/assets/18b1d2c3-bf83-4b87-b9bc-83ec6a6a8c5d)
+![screencapture-lucent-cobbler-fea903-netlify-app-widgets-2025-03-27-17_23_29](https://github.com/user-attachments/assets/c2a43514-ea70-4362-b838-3136355143dc)
+![screencapture-lucent-cobbler-fea903-netlify-app-settings-2025-03-27-17_23_45](https://github.com/user-attachments/assets/427650c6-13ba-4abe-826c-fe90db70b655)
+
 
 ## Features
 
